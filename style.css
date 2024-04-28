@@ -1,0 +1,19 @@
+
+
+/*Linking html to css*/
+Use link tag in css and put in the name of css tag
+
+/*css syntax*/
+h1 {
+    color: blue;
+    font-size: large;
+}
+
+/* Css global styling*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* */
